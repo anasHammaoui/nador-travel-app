@@ -1,0 +1,470 @@
+{
+  "places": [
+    {
+      "id": "1",
+      "name": "Plage de Charrana",
+      "category": "Plages",
+      "description": "La plage de Charrana est l'une des plus belles plages de la région de Nador, située à environ 25 km au nord de la ville. Avec son sable fin et doré, ses eaux cristallines d'un bleu turquoise envoûtant et son cadre naturel préservé, Charrana est un véritable paradis pour les amateurs de baignade et de farniente.\n\nEntourée de collines verdoyantes qui plongent dans la mer, cette plage offre un panorama exceptionnel sur la Méditerranée. Les familles apprécient particulièrement la douceur de ses eaux peu profondes, idéales pour les enfants. Les amateurs de sports nautiques y trouvent également leur compte avec des possibilités de plongée avec tuba et de kayak.\n\nPendant la saison estivale, de petits restaurants de plage proposent des poissons et fruits de mer fraîchement pêchés, grillés à la perfection selon les traditions culinaires rifaines. L'ambiance y est conviviale et authentique, loin du tourisme de masse.",
+      "shortDescription": "Plage paradisiaque au sable doré et eaux turquoise, à 25 km de Nador. Un cadre naturel préservé idéal pour la baignade.",
+      "images": [
+        "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+        "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?w=800&q=80",
+        "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800&q=80",
+        "https://images.unsplash.com/photo-1506953823976-52e1fdc0149a?w=800&q=80"
+      ],
+      "schedule": {
+        "monday": "Accès libre 24h/24",
+        "tuesday": "Accès libre 24h/24",
+        "wednesday": "Accès libre 24h/24",
+        "thursday": "Accès libre 24h/24",
+        "friday": "Accès libre 24h/24",
+        "saturday": "Accès libre 24h/24",
+        "sunday": "Accès libre 24h/24"
+      },
+      "prices": "Gratuit - Parking payant en été (10 DH)",
+      "address": "Plage de Charrana, Route Côtière, 62000 Nador",
+      "transportation": ["Voiture", "Taxi", "Bus"],
+      "isActive": true,
+      "createdAt": "2025-01-15T10:00:00.000Z",
+      "updatedAt": "2025-01-15T10:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "name": "Plage de Boukana",
+      "category": "Plages",
+      "description": "La plage de Boukana est un joyau caché de la côte nadorienne, réputée pour sa beauté sauvage et son atmosphère paisible. Située à quelques kilomètres de Nador, cette plage séduit par ses criques rocheuses, ses eaux limpides et son sable fin.\n\nBoukana est l'endroit parfait pour ceux qui recherchent la tranquillité et un contact direct avec la nature. Les falaises environnantes offrent des points de vue spectaculaires sur la mer Méditerranée, et les couchers de soleil y sont absolument magiques, teintant le ciel de nuances orangées et pourpres.\n\nLa plage est également un spot apprécié des plongeurs grâce à ses fonds marins riches en biodiversité. On y observe facilement des poissons multicolores, des oursins et parfois même des poulpes. En saison, des vendeurs ambulants proposent des rafraîchissements et des en-cas traditionnels.",
+      "shortDescription": "Plage sauvage aux criques rocheuses et eaux limpides. Un coin de paradis préservé pour les amoureux de la nature.",
+      "images": [
+        "https://images.unsplash.com/photo-1520454974749-611b7248ffdb?w=800&q=80",
+        "https://images.unsplash.com/photo-1515238152791-8216bfdf89a7?w=800&q=80",
+        "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80"
+      ],
+      "schedule": {
+        "monday": "Accès libre 24h/24",
+        "tuesday": "Accès libre 24h/24",
+        "wednesday": "Accès libre 24h/24",
+        "thursday": "Accès libre 24h/24",
+        "friday": "Accès libre 24h/24",
+        "saturday": "Accès libre 24h/24",
+        "sunday": "Accès libre 24h/24"
+      },
+      "prices": "Gratuit",
+      "address": "Plage de Boukana, Commune de Beni Ensar, 62000 Nador",
+      "transportation": ["Voiture", "Taxi"],
+      "isActive": true,
+      "createdAt": "2025-01-15T10:30:00.000Z",
+      "updatedAt": "2025-01-15T10:30:00.000Z"
+    },
+    {
+      "id": "3",
+      "name": "Mont Gourougou",
+      "category": "Sites naturels",
+      "description": "Le Mont Gourougou, culminant à 890 mètres d'altitude, est le point le plus élevé de la région de Nador et offre l'un des panoramas les plus spectaculaires du Rif oriental. Ce massif montagneux d'origine volcanique est couvert d'une forêt dense de pins, d'eucalyptus et de chênes-lièges.\n\nLes sentiers de randonnée qui sillonnent le mont offrent des parcours variés, adaptés aussi bien aux marcheurs débutants qu'aux randonneurs expérimentés. Au sommet, la vue à 360 degrés embrasse la ville de Nador, la lagune de Marchica, la mer Méditerranée et, par temps clair, les côtes espagnoles.\n\nLe Mont Gourougou abrite une biodiversité remarquable avec de nombreuses espèces d'oiseaux, de reptiles et de mammifères. Au printemps, les flancs de la montagne se couvrent de fleurs sauvages, créant un spectacle naturel coloré et parfumé. C'est aussi un lieu chargé d'histoire, ayant servi de refuge et de point stratégique à travers les siècles.",
+      "shortDescription": "Sommet de 890m offrant des panoramas spectaculaires sur Nador, la lagune de Marchica et la Méditerranée.",
+      "images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
+        "https://images.unsplash.com/photo-1486870591958-9b9d0d1dda99?w=800&q=80",
+        "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?w=800&q=80",
+        "https://images.unsplash.com/photo-1501555088652-021faa106b9b?w=800&q=80"
+      ],
+      "schedule": {
+        "monday": "06:00 - 19:00",
+        "tuesday": "06:00 - 19:00",
+        "wednesday": "06:00 - 19:00",
+        "thursday": "06:00 - 19:00",
+        "friday": "06:00 - 19:00",
+        "saturday": "06:00 - 19:00",
+        "sunday": "06:00 - 19:00"
+      },
+      "prices": "Gratuit",
+      "address": "Mont Gourougou, Route Forestière, Nador",
+      "transportation": ["Voiture", "Taxi", "À pied"],
+      "isActive": true,
+      "createdAt": "2025-01-16T09:00:00.000Z",
+      "updatedAt": "2025-01-16T09:00:00.000Z"
+    },
+    {
+      "id": "4",
+      "name": "Lagune de Marchica",
+      "category": "Sites naturels",
+      "description": "La lagune de Marchica (ou Mar Chica) est l'une des plus grandes lagunes de la Méditerranée occidentale, s'étendant sur environ 25 km de long et 7 km de large. Ce site naturel exceptionnel, classé zone humide d'importance internationale, est un écosystème unique qui abrite une faune et une flore remarquables.\n\nLes eaux calmes et peu profondes de la lagune offrent un habitat idéal pour de nombreuses espèces d'oiseaux migrateurs, dont les flamants roses qui viennent y séjourner en hiver. Les amateurs d'ornithologie peuvent observer des dizaines d'espèces tout au long de l'année.\n\nLe projet d'aménagement Marchica Med a transformé les rives de la lagune en un espace moderne avec des promenades paysagées, des marinas et des espaces de loisirs, tout en préservant l'équilibre écologique du site. Les couchers de soleil sur la lagune sont d'une beauté incomparable, avec des reflets dorés qui dansent sur les eaux tranquilles.",
+      "shortDescription": "Plus grande lagune de la Méditerranée occidentale, un écosystème unique abritant flamants roses et oiseaux migrateurs.",
+      "images": [
+        "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&q=80",
+        "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
+        "https://images.unsplash.com/photo-1682687220742-aba13b6e50ba?w=800&q=80",
+        "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&q=80"
+      ],
+      "schedule": {
+        "monday": "Accès libre",
+        "tuesday": "Accès libre",
+        "wednesday": "Accès libre",
+        "thursday": "Accès libre",
+        "friday": "Accès libre",
+        "saturday": "Accès libre",
+        "sunday": "Accès libre"
+      },
+      "prices": "Gratuit",
+      "address": "Lagune de Marchica, Boulevard Marchica, 62000 Nador",
+      "transportation": ["Voiture", "Taxi", "Bus", "Vélo"],
+      "isActive": true,
+      "createdAt": "2025-01-16T10:00:00.000Z",
+      "updatedAt": "2025-01-16T10:00:00.000Z"
+    },
+    {
+      "id": "5",
+      "name": "Souk Central de Nador",
+      "category": "Shopping et souks",
+      "description": "Le Souk Central de Nador est le cœur battant du commerce traditionnel de la ville. Ce marché vibrant et coloré offre une expérience sensorielle unique où les odeurs d'épices se mêlent aux couleurs vives des étals de fruits et légumes frais.\n\nLes allées du souk sont bordées de boutiques proposant une incroyable variété de produits : épices, olives, huile d'argan, textiles traditionnels, poteries rifaines, bijoux berbères en argent et bien plus encore. Les artisans locaux y présentent leur savoir-faire transmis de génération en génération.\n\nNégocier les prix fait partie intégrante de l'expérience du souk. Les commerçants, chaleureux et accueillants, sont toujours prêts à partager l'histoire de leurs produits autour d'un verre de thé à la menthe. Le souk est particulièrement animé le vendredi et le dimanche, jours de grand marché.",
+      "shortDescription": "Marché traditionnel vibrant au cœur de Nador. Épices, artisanat rifain, bijoux berbères et ambiance authentique.",
+      "images": [
+        "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=800&q=80",
+        "https://images.unsplash.com/photo-1534723452862-4c874018d66d?w=800&q=80",
+        "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=800&q=80"
+      ],
+      "schedule": {
+        "monday": "08:00 - 20:00",
+        "tuesday": "08:00 - 20:00",
+        "wednesday": "08:00 - 20:00",
+        "thursday": "08:00 - 20:00",
+        "friday": "08:00 - 13:00 / 15:00 - 20:00",
+        "saturday": "08:00 - 20:00",
+        "sunday": "08:00 - 20:00"
+      },
+      "prices": "Entrée libre",
+      "address": "Souk Central, Avenue Mohammed V, 62000 Nador",
+      "transportation": ["À pied", "Taxi", "Bus"],
+      "isActive": true,
+      "createdAt": "2025-01-17T08:00:00.000Z",
+      "updatedAt": "2025-01-17T08:00:00.000Z"
+    },
+    {
+      "id": "6",
+      "name": "Restaurant Al Marsa",
+      "category": "Restaurants",
+      "description": "Le Restaurant Al Marsa est une institution gastronomique de Nador, réputée pour sa cuisine de poissons et fruits de mer d'une fraîcheur incomparable. Situé face à la mer, ce restaurant offre une vue imprenable sur la Méditerranée, créant un cadre idyllique pour un repas mémorable.\n\nLe chef, formé aux traditions culinaires rifaines et méditerranéennes, propose une carte qui célèbre les produits de la mer : tajine de poisson aux légumes confits, paella nadorienne, brochettes de crevettes marinées aux herbes, et l'incontournable friture mixte servie avec une chermoula maison.\n\nL'intérieur du restaurant allie élégance marocaine et modernité, avec des touches de bleu rappelant la mer et des éléments de décoration artisanale. La terrasse extérieure est particulièrement prisée en soirée, quand la brise marine accompagne le repas. Le service est attentionné et le personnel multilingue.",
+      "shortDescription": "Restaurant gastronomique face à la mer spécialisé en poissons et fruits de mer. Cuisine rifaine et méditerranéenne.",
+      "images": [
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80",
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80",
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800&q=80",
+        "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80"
+      ],
+      "schedule": {
+        "monday": "12:00 - 15:00 / 19:00 - 23:00",
+        "tuesday": "12:00 - 15:00 / 19:00 - 23:00",
+        "wednesday": "12:00 - 15:00 / 19:00 - 23:00",
+        "thursday": "12:00 - 15:00 / 19:00 - 23:00",
+        "friday": "12:00 - 15:00 / 19:00 - 23:30",
+        "saturday": "12:00 - 15:00 / 19:00 - 23:30",
+        "sunday": "12:00 - 16:00"
+      },
+      "prices": "Plats principaux : 80 - 200 DH | Menu dégustation : 350 DH",
+      "address": "Boulevard Front de Mer, Corniche de Nador, 62000 Nador",
+      "transportation": ["Taxi", "Voiture", "À pied"],
+      "isActive": true,
+      "createdAt": "2025-01-17T11:00:00.000Z",
+      "updatedAt": "2025-01-17T11:00:00.000Z"
+    },
+    {
+      "id": "7",
+      "name": "Café Corniche",
+      "category": "Cafés et salons de thé",
+      "description": "Le Café Corniche est l'un des cafés les plus emblématiques de Nador, perché sur la corniche avec une vue panoramique sur la mer Méditerranée. Depuis plus de vingt ans, c'est le rendez-vous incontournable des Nadoris pour savourer un thé à la menthe préparé selon la tradition.\n\nL'établissement propose une large sélection de boissons chaudes et froides, des jus de fruits frais pressés, ainsi que des pâtisseries marocaines faites maison : cornes de gazelle, briouates aux amandes, msemen au miel et bien d'autres délices. Le petit-déjeuner marocain, avec ses msemen, beghrir et harcha accompagnés de miel, beurre et confiture, est particulièrement apprécié.\n\nLa terrasse du café, ombragée par des parasols, offre un cadre parfait pour se détendre tout en contemplant le va-et-vient des bateaux sur la mer. L'ambiance y est décontractée et conviviale, reflétant l'art de vivre méditerranéen.",
+      "shortDescription": "Café emblématique sur la corniche avec vue panoramique sur la mer. Thé à la menthe et pâtisseries marocaines.",
+      "images": [
+        "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=800&q=80",
+        "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&q=80",
+        "https://images.unsplash.com/photo-1445116572660-236099ec97a0?w=800&q=80"
+      ],
+      "schedule": {
+        "monday": "07:00 - 23:00",
+        "tuesday": "07:00 - 23:00",
+        "wednesday": "07:00 - 23:00",
+        "thursday": "07:00 - 23:00",
+        "friday": "07:00 - 00:00",
+        "saturday": "07:00 - 00:00",
+        "sunday": "08:00 - 23:00"
+      },
+      "prices": "Thé à la menthe : 10 DH | Café : 12 DH | Jus frais : 15-25 DH | Pâtisseries : 5-15 DH",
+      "address": "Corniche de Nador, Boulevard Maritime, 62000 Nador",
+      "transportation": ["À pied", "Taxi", "Bus"],
+      "isActive": true,
+      "createdAt": "2025-01-18T08:00:00.000Z",
+      "updatedAt": "2025-01-18T08:00:00.000Z"
+    },
+    {
+      "id": "8",
+      "name": "Hôtel Mercure Rif",
+      "category": "Hôtels et hébergements",
+      "description": "L'Hôtel Mercure Rif Nador est l'un des établissements hôteliers les plus prestigieux de la ville, offrant un hébergement de qualité supérieure dans un cadre moderne et élégant. Situé au cœur de Nador, l'hôtel bénéficie d'un emplacement stratégique à proximité des principales attractions touristiques.\n\nLes chambres, spacieuses et lumineuses, sont décorées dans un style contemporain avec des touches de design marocain. Chaque chambre dispose de la climatisation, d'une connexion Wi-Fi haut débit, d'une télévision à écran plat et d'une salle de bain moderne. Les suites offrent une vue imprenable sur la ville ou la mer.\n\nL'hôtel dispose d'un restaurant gastronomique proposant une cuisine marocaine et internationale, d'un bar lounge, d'une piscine extérieure, d'un spa avec hammam traditionnel et d'une salle de fitness. Le personnel polyglotte assure un service attentionné et personnalisé pour rendre chaque séjour inoubliable.",
+      "shortDescription": "Hôtel de standing au cœur de Nador. Chambres élégantes, restaurant gastronomique, piscine et spa avec hammam.",
+      "images": [
+        "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&q=80",
+        "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800&q=80",
+        "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&q=80",
+        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&q=80"
+      ],
+      "schedule": {
+        "monday": "Réception 24h/24",
+        "tuesday": "Réception 24h/24",
+        "wednesday": "Réception 24h/24",
+        "thursday": "Réception 24h/24",
+        "friday": "Réception 24h/24",
+        "saturday": "Réception 24h/24",
+        "sunday": "Réception 24h/24"
+      },
+      "prices": "Chambre standard : 600 DH/nuit | Chambre supérieure : 900 DH/nuit | Suite : 1500 DH/nuit",
+      "address": "Avenue Youssef Ibn Tachfine, Centre-ville, 62000 Nador",
+      "transportation": ["Taxi", "Voiture", "Bus"],
+      "isActive": true,
+      "createdAt": "2025-01-18T12:00:00.000Z",
+      "updatedAt": "2025-01-18T12:00:00.000Z"
+    },
+    {
+      "id": "9",
+      "name": "Musée de la Culture Rifaine",
+      "category": "Musées et culture",
+      "description": "Le Musée de la Culture Rifaine est un espace culturel dédié à la préservation et à la valorisation du patrimoine de la région du Rif. Ce musée retrace l'histoire millénaire de la civilisation rifaine à travers des collections d'objets archéologiques, ethnographiques et artistiques.\n\nLes visiteurs peuvent découvrir des expositions permanentes présentant les traditions vestimentaires rifaines, les bijoux berbères en argent finement ciselés, les poteries et céramiques traditionnelles, ainsi que des instruments de musique ancestraux. Une section est consacrée à l'histoire de la résistance rifaine et aux grandes figures de la région.\n\nLe musée organise régulièrement des expositions temporaires, des conférences et des ateliers culturels pour sensibiliser les jeunes générations à leur héritage. La bibliothèque du musée possède une collection de manuscrits et d'ouvrages sur l'histoire et la culture amazighe.",
+      "shortDescription": "Musée dédié au patrimoine rifain. Collections archéologiques, bijoux berbères, poteries et histoire de la résistance.",
+      "images": [
+        "https://images.unsplash.com/photo-1566127444979-b3d2b654e3d7?w=800&q=80",
+        "https://images.unsplash.com/photo-1564399579883-451a5d44ec08?w=800&q=80",
+        "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&q=80"
+      ],
+      "schedule": {
+        "monday": "Fermé",
+        "tuesday": "09:00 - 17:00",
+        "wednesday": "09:00 - 17:00",
+        "thursday": "09:00 - 17:00",
+        "friday": "09:00 - 12:00 / 14:00 - 17:00",
+        "saturday": "10:00 - 18:00",
+        "sunday": "10:00 - 16:00"
+      },
+      "prices": "Adultes : 20 DH | Étudiants : 10 DH | Enfants (-12 ans) : Gratuit",
+      "address": "Rue de la Culture, Quartier Administratif, 62000 Nador",
+      "transportation": ["À pied", "Taxi", "Bus"],
+      "isActive": true,
+      "createdAt": "2025-01-19T09:00:00.000Z",
+      "updatedAt": "2025-01-19T09:00:00.000Z"
+    },
+    {
+      "id": "10",
+      "name": "Monument des Martyrs",
+      "category": "Monuments et patrimoine",
+      "description": "Le Monument des Martyrs est un mémorial imposant érigé en hommage aux héros de la résistance rifaine qui ont sacrifié leur vie pour la liberté et l'indépendance. Situé sur une colline surplombant Nador, ce monument est un symbole puissant de la mémoire collective de la région.\n\nL'architecture du monument combine des éléments traditionnels marocains et des lignes modernes, créant une œuvre à la fois majestueuse et émouvante. Les jardins qui l'entourent sont soigneusement entretenus et offrent un espace de recueillement paisible. Des plaques commémoratives retracent les événements clés de l'histoire de la résistance.\n\nLe site offre également une vue panoramique exceptionnelle sur la ville de Nador et la lagune de Marchica. C'est un lieu incontournable pour comprendre l'histoire de la région et rendre hommage à ceux qui ont façonné l'identité rifaine. Des cérémonies commémoratives y sont organisées chaque année.",
+      "shortDescription": "Mémorial imposant dédié aux héros de la résistance rifaine. Vue panoramique sur Nador et la lagune de Marchica.",
+      "images": [
+        "https://images.unsplash.com/photo-1575276933850-1acca8a51e08?w=800&q=80",
+        "https://images.unsplash.com/photo-1583037189850-1921ae7c6c22?w=800&q=80",
+        "https://images.unsplash.com/photo-1564769625905-50e93615e769?w=800&q=80"
+      ],
+      "schedule": {
+        "monday": "08:00 - 18:00",
+        "tuesday": "08:00 - 18:00",
+        "wednesday": "08:00 - 18:00",
+        "thursday": "08:00 - 18:00",
+        "friday": "08:00 - 12:00 / 14:00 - 18:00",
+        "saturday": "09:00 - 18:00",
+        "sunday": "09:00 - 17:00"
+      },
+      "prices": "Gratuit",
+      "address": "Colline des Martyrs, Route de Selouane, 62000 Nador",
+      "transportation": ["Voiture", "Taxi"],
+      "isActive": true,
+      "createdAt": "2025-01-19T14:00:00.000Z",
+      "updatedAt": "2025-01-19T14:00:00.000Z"
+    },
+    {
+      "id": "11",
+      "name": "Parc d'Attractions Nador",
+      "category": "Loisirs et divertissements",
+      "description": "Le Parc d'Attractions de Nador est le principal espace de loisirs de la ville, offrant une multitude d'activités pour toute la famille. Situé dans un cadre verdoyant, le parc propose des manèges pour tous les âges, des jeux d'arcade, des aires de jeux pour enfants et des espaces de pique-nique ombragés.\n\nLes attractions phares incluent la grande roue offrant une vue panoramique sur la ville, les autos tamponneuses, le train fantôme et plusieurs manèges à sensations. Pour les plus petits, un espace dédié propose des carrousels, des trampolines et des structures gonflables.\n\nLe parc dispose également d'un espace restauration avec plusieurs stands proposant des en-cas, des glaces artisanales et des boissons fraîches. Des spectacles et animations sont organisés durant les vacances scolaires et les weekends, créant une ambiance festive et familiale.",
+      "shortDescription": "Principal espace de loisirs de Nador. Manèges, grande roue, jeux pour enfants et aires de pique-nique verdoyantes.",
+      "images": [
+        "https://images.unsplash.com/photo-1513889961551-628c1e5e2ee9?w=800&q=80",
+        "https://images.unsplash.com/photo-1570498839593-e565b39455fc?w=800&q=80",
+        "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=800&q=80"
+      ],
+      "schedule": {
+        "monday": "Fermé",
+        "tuesday": "15:00 - 22:00",
+        "wednesday": "15:00 - 22:00",
+        "thursday": "15:00 - 22:00",
+        "friday": "15:00 - 23:00",
+        "saturday": "10:00 - 23:00",
+        "sunday": "10:00 - 22:00"
+      },
+      "prices": "Entrée : 10 DH | Attractions : 10-30 DH chacune | Pass journée : 100 DH",
+      "address": "Avenue des Loisirs, Quartier Al Amal, 62000 Nador",
+      "transportation": ["Bus", "Taxi", "Voiture"],
+      "isActive": true,
+      "createdAt": "2025-01-20T10:00:00.000Z",
+      "updatedAt": "2025-01-20T10:00:00.000Z"
+    },
+    {
+      "id": "12",
+      "name": "Restaurant Rif Palace",
+      "category": "Restaurants",
+      "description": "Le Restaurant Rif Palace est une adresse gastronomique incontournable de Nador, spécialisée dans la cuisine marocaine traditionnelle revisitée avec une touche contemporaine. L'établissement occupe une magnifique villa au décor oriental raffiné, avec des zelliges, des boiseries sculptées et des lustres en cuivre.\n\nLa carte propose les grands classiques de la cuisine marocaine : couscous royal aux sept légumes, tajines variés (agneau aux pruneaux, poulet au citron confit, kefta aux œufs), pastilla au pigeon et méchoui. Les plats sont préparés avec des ingrédients frais et des épices soigneusement sélectionnées.\n\nLe restaurant dispose de plusieurs salons privés pour les événements familiaux et professionnels, ainsi qu'un magnifique jardin intérieur (riad) où il fait bon dîner sous les étoiles. La carte des desserts met à l'honneur les pâtisseries marocaines accompagnées de thé à la menthe.",
+      "shortDescription": "Restaurant gastronomique marocain dans une villa au décor oriental. Couscous royal, tajines et pastilla au pigeon.",
+      "images": [
+        "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&q=80",
+        "https://images.unsplash.com/photo-1600891964092-4316c288032e?w=800&q=80",
+        "https://images.unsplash.com/photo-1540914124281-342587941389?w=800&q=80",
+        "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=800&q=80"
+      ],
+      "schedule": {
+        "monday": "12:00 - 15:00 / 19:00 - 23:00",
+        "tuesday": "12:00 - 15:00 / 19:00 - 23:00",
+        "wednesday": "12:00 - 15:00 / 19:00 - 23:00",
+        "thursday": "12:00 - 15:00 / 19:00 - 23:00",
+        "friday": "12:00 - 15:00 / 19:30 - 23:30",
+        "saturday": "12:00 - 16:00 / 19:30 - 23:30",
+        "sunday": "12:00 - 16:00"
+      },
+      "prices": "Entrées : 30-60 DH | Plats : 70-180 DH | Desserts : 30-50 DH | Menu complet : 250 DH",
+      "address": "Rue Hassan II, Quartier Central, 62000 Nador",
+      "transportation": ["Taxi", "Voiture", "À pied"],
+      "isActive": true,
+      "createdAt": "2025-01-20T14:00:00.000Z",
+      "updatedAt": "2025-01-20T14:00:00.000Z"
+    },
+    {
+      "id": "13",
+      "name": "Forêt de Cap des Trois Fourches",
+      "category": "Sites naturels",
+      "description": "Le Cap des Trois Fourches est un promontoire rocheux spectaculaire qui s'avance dans la mer Méditerranée, offrant des paysages à couper le souffle. Ce site naturel préservé est l'un des secrets les mieux gardés de la côte rifaine, avec ses falaises vertigineuses, ses criques sauvages et ses eaux d'un bleu profond.\n\nLe cap tire son nom de sa forme caractéristique en trois pointes qui s'enfoncent dans la mer. La route sinueuse qui y mène traverse des paysages arides et montagneux, ponctuée de vues spectaculaires sur la côte. Au bout du cap, un phare historique domine la mer et guide les navigateurs depuis plus d'un siècle.\n\nLe site est un paradis pour les randonneurs et les amateurs de photographie. La biodiversité marine exceptionnelle en fait également un spot de plongée réputé. Les fonds rocheux abritent mérous, murènes, poulpes et une multitude de poissons méditerranéens colorés.",
+      "shortDescription": "Promontoire rocheux spectaculaire avec falaises, criques sauvages et phare historique. Paradis des randonneurs.",
+      "images": [
+        "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+        "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&q=80",
+        "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800&q=80"
+      ],
+      "schedule": {
+        "monday": "Accès libre (jour uniquement)",
+        "tuesday": "Accès libre (jour uniquement)",
+        "wednesday": "Accès libre (jour uniquement)",
+        "thursday": "Accès libre (jour uniquement)",
+        "friday": "Accès libre (jour uniquement)",
+        "saturday": "Accès libre (jour uniquement)",
+        "sunday": "Accès libre (jour uniquement)"
+      },
+      "prices": "Gratuit",
+      "address": "Cap des Trois Fourches, Route du Phare, Province de Nador",
+      "transportation": ["Voiture", "Taxi"],
+      "isActive": true,
+      "createdAt": "2025-01-21T09:00:00.000Z",
+      "updatedAt": "2025-01-21T09:00:00.000Z"
+    },
+    {
+      "id": "14",
+      "name": "Riad Nador Heritage",
+      "category": "Hôtels et hébergements",
+      "description": "Le Riad Nador Heritage est une maison d'hôtes de charme installée dans un riad traditionnel restauré avec goût. Ce bijou architectural offre une expérience d'hébergement authentique au cœur de la médina de Nador, alliant le charme de l'architecture marocaine traditionnelle au confort moderne.\n\nLes six chambres du riad, chacune portant le nom d'une plante du jardin méditerranéen, sont décorées avec des matériaux nobles : zelliges colorés, tadelakt soyeux, boiseries en cèdre sculpté et textiles berbères. Le patio central, avec sa fontaine en mosaïque et ses orangers, est un havre de paix.\n\nLe riad propose un petit-déjeuner copieux servi sur la terrasse panoramique, avec des produits frais et des recettes traditionnelles. Des cours de cuisine marocaine, des excursions guidées et des soirées musicales gnaoua sont organisés régulièrement pour les hôtes.",
+      "shortDescription": "Riad traditionnel de charme au cœur de la médina. Six chambres décorées avec zelliges, tadelakt et boiseries en cèdre.",
+      "images": [
+        "https://images.unsplash.com/photo-1590490360182-c33d955e4c47?w=800&q=80",
+        "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=800&q=80",
+        "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=800&q=80"
+      ],
+      "schedule": {
+        "monday": "Réception 24h/24",
+        "tuesday": "Réception 24h/24",
+        "wednesday": "Réception 24h/24",
+        "thursday": "Réception 24h/24",
+        "friday": "Réception 24h/24",
+        "saturday": "Réception 24h/24",
+        "sunday": "Réception 24h/24"
+      },
+      "prices": "Chambre double : 450 DH/nuit | Suite : 800 DH/nuit | Petit-déjeuner inclus",
+      "address": "Derb Sidi Ali, Ancienne Médina, 62000 Nador",
+      "transportation": ["Taxi", "À pied"],
+      "isActive": true,
+      "createdAt": "2025-01-21T14:00:00.000Z",
+      "updatedAt": "2025-01-21T14:00:00.000Z"
+    },
+    {
+      "id": "15",
+      "name": "Galerie d'Art Amazigh",
+      "category": "Musées et culture",
+      "description": "La Galerie d'Art Amazigh est un espace culturel contemporain dédié à la promotion de l'art berbère sous toutes ses formes. Fondée par des artistes locaux passionnés, cette galerie présente des œuvres qui font dialoguer tradition et modernité.\n\nLes expositions permanentes et temporaires mettent en lumière la peinture, la sculpture, la calligraphie tifinagh, la photographie et l'art textile amazigh. Des artistes émergents et confirmés de toute la région du Rif y exposent leurs créations, contribuant au rayonnement de la culture amazighe.\n\nLa galerie organise régulièrement des vernissages, des conférences sur l'art et la culture amazighe, des ateliers de calligraphie tifinagh et des projections de films documentaires. C'est un lieu de rencontre et d'échange entre artistes, amateurs d'art et curieux désireux de découvrir la richesse artistique de la région.",
+      "shortDescription": "Galerie d'art contemporain dédié à l'art amazigh. Peinture, sculpture, calligraphie tifinagh et photographie.",
+      "images": [
+        "https://images.unsplash.com/photo-1531243269054-5ebf6f34081e?w=800&q=80",
+        "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=800&q=80",
+        "https://images.unsplash.com/photo-1544967082-d9d25d867d66?w=800&q=80"
+      ],
+      "schedule": {
+        "monday": "Fermé",
+        "tuesday": "10:00 - 18:00",
+        "wednesday": "10:00 - 18:00",
+        "thursday": "10:00 - 18:00",
+        "friday": "10:00 - 12:00 / 15:00 - 18:00",
+        "saturday": "10:00 - 19:00",
+        "sunday": "10:00 - 16:00"
+      },
+      "prices": "Entrée : 15 DH | Étudiants : Gratuit | Ateliers : 50 DH",
+      "address": "Rue de l'Art, Quartier Al Massira, 62000 Nador",
+      "transportation": ["À pied", "Taxi", "Bus"],
+      "isActive": true,
+      "createdAt": "2025-01-22T10:00:00.000Z",
+      "updatedAt": "2025-01-22T10:00:00.000Z"
+    },
+    {
+      "id": "16",
+      "name": "Marché aux Épices El Baraka",
+      "category": "Shopping et souks",
+      "description": "Le Marché aux Épices El Baraka est un lieu magique où les sens sont en éveil permanent. Niché dans les ruelles de la vieille ville, ce marché spécialisé propose une incroyable variété d'épices, d'herbes aromatiques et de produits naturels venus de tout le Maroc et du bassin méditerranéen.\n\nLes étals colorés débordent de curcuma doré, de safran précieux, de cumin parfumé, de paprika fumé, de ras el hanout et de dizaines d'autres épices qui embaument l'air. Les herboristes du marché sont des encyclopédies vivantes, capables de recommander des mélanges d'épices pour chaque plat ou des remèdes naturels pour chaque mal.\n\nOutre les épices, le marché propose des huiles essentielles, du savon noir traditionnel, du ghassoul (argile), de l'eau de rose, des fruits secs et des confiseries orientales. C'est l'endroit idéal pour ramener des souvenirs gustatifs et olfactifs de Nador.",
+      "shortDescription": "Marché spécialisé en épices et herbes aromatiques. Safran, cumin, ras el hanout et produits naturels traditionnels.",
+      "images": [
+        "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=800&q=80",
+        "https://images.unsplash.com/photo-1506368249639-73a05d6f6488?w=800&q=80",
+        "https://images.unsplash.com/photo-1532336414038-cf19250c5757?w=800&q=80"
+      ],
+      "schedule": {
+        "monday": "08:30 - 19:00",
+        "tuesday": "08:30 - 19:00",
+        "wednesday": "08:30 - 19:00",
+        "thursday": "08:30 - 19:00",
+        "friday": "08:30 - 12:00 / 14:30 - 19:00",
+        "saturday": "08:30 - 19:00",
+        "sunday": "09:00 - 14:00"
+      },
+      "prices": "Entrée libre",
+      "address": "Kissariat El Baraka, Rue du Souk, 62000 Nador",
+      "transportation": ["À pied", "Taxi"],
+      "isActive": true,
+      "createdAt": "2025-01-22T14:00:00.000Z",
+      "updatedAt": "2025-01-22T14:00:00.000Z"
+    },
+    {
+      "id": "17",
+      "name": "Kasbah de Selouane",
+      "category": "Monuments et patrimoine",
+      "description": "La Kasbah de Selouane est une forteresse historique datant de l'époque mérinide, située à quelques kilomètres de Nador. Ce monument témoigne de la richesse du patrimoine architectural de la région et offre un voyage dans le temps à travers les siècles d'histoire du Rif oriental.\n\nLes murailles imposantes de la kasbah, construites en pisé et en pierre, ont résisté aux épreuves du temps et aux conflits qui ont marqué la région. Les visiteurs peuvent explorer les ruines des tours de guet, les anciennes cours intérieures et les vestiges des habitations qui témoignent de la vie quotidienne d'autrefois.\n\nDes travaux de restauration ont permis de préserver et de valoriser ce patrimoine exceptionnel. Des panneaux informatifs retracent l'histoire de la kasbah et son rôle stratégique dans la défense de la région. Le site offre également de beaux points de vue sur la campagne environnante et les oliveraies.",
+      "shortDescription": "Forteresse historique mérinide aux portes de Nador. Murailles en pisé, tours de guet et vestiges d'une histoire millénaire.",
+      "images": [
+        "https://images.unsplash.com/photo-1539037116277-4db20889f2d4?w=800&q=80",
+        "https://images.unsplash.com/photo-1548013146-72479768bada?w=800&q=80",
+        "https://images.unsplash.com/photo-1466442929976-97f336a657be?w=800&q=80"
+      ],
+      "schedule": {
+        "monday": "09:00 - 17:00",
+        "tuesday": "09:00 - 17:00",
+        "wednesday": "09:00 - 17:00",
+        "thursday": "09:00 - 17:00",
+        "friday": "09:00 - 12:00",
+        "saturday": "09:00 - 17:00",
+        "sunday": "10:00 - 16:00"
+      },
+      "prices": "Adultes : 15 DH | Enfants : 5 DH",
+      "address": "Route de Selouane, Commune de Selouane, Province de Nador",
+      "transportation": ["Voiture", "Taxi", "Bus"],
+      "isActive": true,
+      "createdAt": "2025-01-23T09:00:00.000Z",
+      "updatedAt": "2025-01-23T09:00:00.000Z"
+    }
+  ]
+}
